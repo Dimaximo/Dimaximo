@@ -2,10 +2,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-maximo/)
 
-![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDiegoMaximo&show_icons=true&theme=dracula)
+![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDiegoMaximo&theme=dracula&show_icons=true)
+
 
 ## Tecnologias que utilizo
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDiegoMaximo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDiegoMaximo&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br/>
 <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
